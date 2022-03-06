@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Brian Thornburg",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student at Code Fellows | Line Cook at Big Grove Brewery | Background in Studio Art" ],
       "social": [
         {
           "name": "github",
@@ -9,12 +9,12 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/brianthomasthornburg/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "ProfilePic.jpeg"
     },
     "skills": {
       "icons": [
@@ -27,16 +27,6 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
@@ -54,14 +44,14 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
         }
       ]
     }
